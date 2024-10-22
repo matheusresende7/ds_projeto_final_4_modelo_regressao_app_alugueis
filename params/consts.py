@@ -1,5 +1,7 @@
 # Data
+DATA_FOLDER = '../data'
 DATASET_RAW = '../data/dataset_raw.csv'
+DATASET_PREVIEW = '../data/dataset_preview.csv'
 DATASET_PROCESSED = '../data/dataset_processed.csv'
 DATASET_LEAN = '../data/dataset_lean.csv'
 DATASET_DUMMIES = '../data/dataset_dummies.csv'

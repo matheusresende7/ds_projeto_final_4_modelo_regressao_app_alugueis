@@ -7,19 +7,13 @@
 
 
 ## Objetivo
-O objetivo do projeto é, a partir dos dados de campanhas piloto, construir um **modelo de clusterização** para segmentação de clientes em campanhas de marketing em uma plataforma de delivery. <br>
+O objetivo do projeto é, a partir de dados históricos, construir um **modelo de regressão** para previsão da diária de aluguel em um aplicativo de aluguéis de imóveis. <br>
 
-A intenção é que o modelo preveja o comportamento dos consumidores e torne possível aplicá-lo a toda a base de clientes, permitindo que a empresa identifique os clientes que têm maior probabilidade de aceitar a campanha, otimizando assim os resultados das campanhas e tornando-as altamente lucrativas. <br>
-
-E em seguida, construir um **modelo de classificação** de acordo com os resultados obtidos no modelo inicial para prever se os clientes devem ou não aceitar as futuras campanhas da empresa.
+A intenção é que o modelo preveja o valor para se cobrar em uma diária de aluguel na plataforma de imóveis, permitindo que a empresa identifique qual é o valor ideal para se cobrar na diária do imóvel, otimizando assim o retorno com o aluguel dos imóveis.
 
 
 ## Descrição
-Nesse projeto de Ciência de Dados, resumidamente, foi realizada uma ampla análise exploratória gerando os principais insights do projeto e permitindo identificar duas principais personas para os clientes de uma plataforma de delivery. 
-
-Em seguida, foi criado um modelo de clusterização usando K-Means para identificar melhor as personas dos clientes e permitindo assim a empresa direcionar melhor a campanha de marketing para os clientes que tem a maior probabilidade de aceitá-la. 
-
-Por fim, foi criado um modelo de classificação usando Regressão Logística para prever se os clientes devem ou não aceitar as futuras campanhas de marketing da empresa.                                                                                                 |
+.........................
 
 
 ## Referências
