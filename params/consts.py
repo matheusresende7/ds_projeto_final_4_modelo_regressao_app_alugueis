@@ -2,11 +2,9 @@
 DATA_FOLDER = '../data'
 DATASET_RAW = '../data/dataset_raw.csv'
 DATASET_PREVIEW = '../data/dataset_preview.csv'
-DATASET_PROCESSED = '../data/dataset_processed.csv'
 DATASET_LEAN = '../data/dataset_lean.csv'
 DATASET_DUMMIES = '../data/dataset_dummies.csv'
 DATASET_TRANSFORMED = '../data/dataset_transformed.csv'
-DATASET_CLUSTERED = '../data/dataset_clustered.csv'
 DATASET_DEPLOY_CLASSIFICATION = '../data/dataset_deploy_classification.csv'
 DATASET_DEPLOYED_CLASSIFICATION = '../data/dataset_deployed_classification.csv'
 
