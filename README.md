@@ -51,22 +51,9 @@ Em seguida, foi criado um modelo de regressão usando Árvore de Regressão para
 - `requirements.txt`: Arquivo para listar as dependências/bibliotecas necessárias no projeto
 - `to_do.txt`: Arquivo para anotar as tarefas pendentes do projeto
 
-
-## Resultados - EDA
-![EDA_03](images/output_resultados_eda_03.png)
-
-![EDA_04](images/output_resultados_eda_04.png)
-
-![EDA_05](images/output_resultados_eda_05.png)
-
-## Resultados - Clusterização
-![Models_03](images/output_resultados_models_03.png)
-
-![Models_04](images/output_resultados_models_04.png)
-
 ## Resultados - Classificação
-![Models_05](images/output_resultados_models_05.png)
+![Models_05](images/output_resultados_models_03.png)
 
-![Models_06](images/output_resultados_models_06.png)
+![Models_06](images/output_resultados_models_04.png)
 
-![Models_07](images/output_resultados_models_07.png)
+![Models_07](images/output_resultados_models_05.png)
