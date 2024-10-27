@@ -5,16 +5,6 @@ DATASET_PREVIEW = '../data/dataset_preview.csv'
 DATASET_LEAN = '../data/dataset_lean.csv'
 DATASET_DUMMIES = '../data/dataset_dummies.csv'
 DATASET_TRANSFORMED = '../data/dataset_transformed.csv'
-DATASET_DEPLOY_CLASSIFICATION = '../data/dataset_deploy_classification.csv'
-DATASET_DEPLOYED_CLASSIFICATION = '../data/dataset_deployed_classification.csv'
-
-# Models
-MODEL_CLASSIFICATION_JOBLIB = '../models/model_classification.joblib'
-MODEL_CLASSIFICATION_PKL = '../models/model_classification.pkl'
-
-# Reports
-EDA_0 = '../reports/eda_0.html'
-EDA_1 = '../reports/eda_1.html'
 
 # Values
 RANDOM_STATE = 42
