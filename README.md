@@ -1,59 +1,41 @@
 # Ciência de Dados - Projeto Final 4
 
-![Wallpaper](images/wallpaper.png)
+![Wallpaper](images/illustrations/wallpapers/wallpaper.png)
 
 ## Projeto
 **Modelo de regressão** para previsão da diária de aluguel de imóveis em um aplicativo de aluguéis.
 
 
-## Objetivo
-O objetivo do projeto é, a partir de dados históricos, construir um **modelo de regressão** para previsão da diária de aluguel em um aplicativo de aluguéis de imóveis. <br>
-
-A intenção é que o modelo preveja o valor para se cobrar em uma diária de aluguel na plataforma de imóveis, permitindo que a empresa identifique qual é o valor ideal para se cobrar na diária do imóvel, otimizando assim o retorno com o aluguel dos imóveis.
-
-
 ## Descrição
-Nesse projeto de Ciência de Dados, resumidamente, foi realizado um amplo processo de tratamento dos dados devido a ter um dataset com muitos registros e features analisadas. Dessa forma foi possível focar apenas nas informações relevantes para a criação do modelo de regressão.
-
-Em seguida, foi criado um modelo de regressão usando Árvore de Regressão para prever o valor ideal a se cobrar em uma diária de aluguel na plataforma de imóveis na cidade do Rio de Janeiro, permitindo assim otimizar o valor a ser cobrando por um imóvel na cidade.
+Nesse projeto de Ciência de Dados, resumidamente, foi realizado um amplo processo de tratamento dos dados devido a ter um dataset com muitos registros e features analisadas. Dessa forma foi possível focar apenas nas informações relevantes para a criação do modelo de regressão. Em seguida, foi criado um modelo de regressão usando Árvore de Regressão para prever o valor ideal a se cobrar em uma diária de aluguel na plataforma de imóveis na cidade do Rio de Janeiro, permitindo assim otimizar o valor a ser cobrando por um imóvel na cidade.
 
 
 ## Referências
 - **Link do Kaggle:** https://www.kaggle.com/datasets/allanbruno/airbnb-rio-de-janeiro
 
-## Bibliotecas
-- **Matplotlib:** https://matplotlib.org/
-- **NumPy:** https://pandas.pydata.org/docs/index.html
-- **Pandas:** https://pandas.pydata.org/docs/index.html
-- **Scikit-Learn:** https://seaborn.pydata.org/
-- **Seaborn:** https://seaborn.pydata.org/
 
+## Resultados - Projeto
+![00_Data_Science](images/outputs/slides/00_data_science.png)
 
-## Estrutura do Projeto
-- **.venv/:** Pasta destinada a armazenar o ambiente virtual do projeto se necessário
-- **data/:** Pasta destinada a armazenar as versões dos datasets: raw, processed, lean, transformed, entre outros
-- **deploys/:** Pasta destinada a armazenar os deploys do projeto, em formatos jupyter notebook, python, executável e streamlit
-- **dictionaries/:** Pasta destinada a armazenar os dicionários do projeto: charts, data, datasets, evaluation metrics, feature engineering, models, pipeline e stats
-- **docs/:** Pasta destinada a armazenar os arquivos e documentos referentes ao projeto
-- **functions/:** Pasta destinada a armazenar arquivos com as funções do projeto: charts, libraries e stats
-- **images/:** Pasta destinada a armazenar imagens do projeto: illustrations e outputs
-- **models/:** Pasta destinada a armazenar os modelos criados durante o projeto
-- **notebooks/:** Pasta destinada a armazenar os notebooks de cada etapa do projeto de ciência de dados
-- **params/:** Pasta destinada a armazenar as constantes e variáveis globais do projeto
-- **presentations/:** Pasta destinada a armazenar as apresentações do projeto, em PowerPoint e PDF
-- **references/:** Pasta destinada a armazenar arquivos com informações do projeto, como markdown tables e cronograma
-- **reports/:** Pasta destinada a armazenar relatórios criados durante o projeto
-- `.env`: Arquivo para armazenar as variáveis de ambiente sensíveis do projeto, como usuários, senhas, tokens e chaves de API
-- `.gitattributes`: Arquivo para configurar o repositório e omitir arquivos sem utilidades da versão final do projeto
-- `.gitignore`: Arquivo para ignorar determinados arquivos ao subir o projeto para o Github
-- `LICENSE`: Arquivo com a licença do projeto
-- `README.md`: Arquivo para resumir e apresentar o projeto
-- `requirements.txt`: Arquivo para listar as dependências/bibliotecas necessárias no projeto
-- `to_do.txt`: Arquivo para anotar as tarefas pendentes do projeto
+![01_Goal](images/outputs/slides/01_goal.png)
 
-## Resultados - Classificação
-![Models_05](images/output_resultados_models_03.png)
+![02_Introduction](images/outputs/slides/02_introduction.png)
 
-![Models_06](images/output_resultados_models_04.png)
+## Resultados - EDA
+![03_EDA](images/outputs/slides/03_eda.png)
 
-![Models_07](images/output_resultados_models_05.png)
+![04_EDA](images/outputs/slides/04_eda.png)
+
+## Resultados - Regressão
+![05_Regression](images/outputs/slides/05_regression.png)
+
+![06_Regression](images/outputs/slides/06_regression.png)
+
+## Resultados - Overfitting
+![07_Overfitting](images/outputs/slides/07_overfitting.png)
+
+## Resultados - Deploy
+![08_Deploy](images/outputs/slides/08_deploy.png)
+
+## Resultados - Conclusão
+![09_Conclusion](images/outputs/slides/09_conclusion.png)
