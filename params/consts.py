@@ -5,6 +5,12 @@ DATASET_RAW_COMPRESSED_PANDAS = '../data/02_bronze/dataset_raw_compressed_pandas
 
 DATASET_CLEAN_PANDAS = '../data/03_silver/dataset_clean_pandas.parquet'
 
+DATASET_MODELS_METRICS_PANDAS = '../data/04_gold/dataset_models_metrics_pandas.csv'
+
+DATASET_MODEL_GROWTH_PANDAS = '../data/04_gold/dataset_model_growth_pandas.csv'
+
+DATASET_COMPARING_METRICS_PANDAS = '../data/04_gold/dataset_comparing_metrics_pandas.csv'
+
 # Models
 GRID_SEARCH_REGRESSION_PANDAS_JOBLIB = '../models/grid_search_regression_pandas.joblib'
 
